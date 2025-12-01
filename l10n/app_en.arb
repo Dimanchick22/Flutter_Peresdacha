@@ -1,0 +1,91 @@
+{
+  "@@locale": "en",
+  "appTitle": "Planner+",
+  "@appTitle": {
+    "description": "The application title"
+  },
+  "tasks": "Tasks",
+  "@tasks": {
+    "description": "Tasks label"
+  },
+  "addTask": "Add Task",
+  "@addTask": {
+    "description": "Add task button label"
+  },
+  "editTask": "Edit Task",
+  "@editTask": {
+    "description": "Edit task screen title"
+  },
+  "deleteTask": "Delete Task",
+  "@deleteTask": {
+    "description": "Delete task action"
+  },
+  "title": "Title",
+  "@title": {
+    "description": "Task title field label"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Task description field label"
+  },
+  "dueDate": "Due Date",
+  "@dueDate": {
+    "description": "Task due date field label"
+  },
+  "priority": "Priority",
+  "@priority": {
+    "description": "Task priority field label"
+  },
+  "tags": "Tags",
+  "@tags": {
+    "description": "Task tags field label"
+  },
+  "high": "High",
+  "medium": "Medium",
+  "low": "Low",
+  "completed": "Completed",
+  "pending": "Pending",
+  "search": "Search tasks...",
+  "@search": {
+    "description": "Search field placeholder"
+  },
+  "filter": "Filter",
+  "sortBy": "Sort By",
+  "all": "All",
+  "active": "Active",
+  "noTasks": "No tasks found",
+  "@noTasks": {
+    "description": "Empty state message"
+  },
+  "createFirstTask": "Create your first task",
+  "@createFirstTask": {
+    "description": "Empty state call to action"
+  },
+  "save": "Save",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "confirmDelete": "Are you sure you want to delete this task?",
+  "settings": "Settings",
+  "theme": "Theme",
+  "lightMode": "Light Mode",
+  "darkMode": "Dark Mode",
+  "systemMode": "System",
+  "language": "Language",
+  "offline": "Offline",
+  "online": "Online",
+  "syncing": "Syncing...",
+  "lastSync": "Last sync: {time}",
+  "@lastSync": {
+    "description": "Last synchronization time",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "error": "Error",
+  "retry": "Retry",
+  "networkError": "Network error. Please check your connection.",
+  "titleRequired": "Title is required",
+  "taskDetails": "Task Details"
+}
